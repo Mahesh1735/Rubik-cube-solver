@@ -31,4 +31,5 @@ The NEMA-17 stepper motors are controlled by motor drivers on a RAMPS 1.4 board 
 - scrambleunscramble.py is for demonstration purposes and just scrambles and reverses it.
 - rubikscube_implementation.py is not used anywhere and just applies the transformations corresponding to an algorithm and returns the new cube state
 - pyserialtest.py is for testing purposes and directly writes some moves to the arduino and moves the steppers
-- tests folder contains various attempts and fails at automatic cube detection 
+
+[**CLick_Here_for_Demonstration_video**](https://drive.google.com/file/d/1-6ZTKslTy4Fb9Lh-mxQEDyr4JDzn9fTW/view?usp=sharing)
